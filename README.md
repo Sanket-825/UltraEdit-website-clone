@@ -8,3 +8,8 @@
 # 4.Core Text Editing Functionality: Essential features like syntax highlighting, code completion, and search/replace.
 
 # This project showcases my proficiency in web development, particularly in CSS layout techniques. I'm excited to continue exploring the potential of CSS Grid and Flexbox to create innovative and user-friendly web applications.
+
+![Screenshot (49)](https://github.com/user-attachments/assets/a690d2bf-d33c-4094-bc54-604673a76701)
+![Screenshot (50)](https://github.com/user-attachments/assets/4dd90de1-ddbb-402d-8167-65c2289d484a)
+![Screenshot (51)](https://github.com/user-attachments/assets/71963b40-2cf7-4e6b-9955-6236f6912d67)
+![Screenshot (52)](https://github.com/user-attachments/assets/e1f326e7-faab-4e36-8a58-d9f338b98a98)
